@@ -20,7 +20,7 @@ Don't understand how to set it up? Well you can mention me in the following disc
 Default prefix is "test " and can be changed in `config.json`
 
 # HELP I'M HAVING ISSUES!!!!11!
-Open a damn issue then.
+Open a damn issue then, Or join our discord server: https://discord.gg/JvWaf9c
 (I accept both User-side and Bot-side issues.)
 
 # Why this branch tho?
